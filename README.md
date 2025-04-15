@@ -47,15 +47,6 @@ These results demonstrate how political figures adjust their linguistic style to
 
 ---
 
-## 📂 Files in this Repository  
-- `biden_formal.txt` – Transcript of the Democratic Convention Speech  
-- `biden_informal.txt` – Transcript of the Thanksgiving Day Speech  
-- `pos_analysis.py` – Python script for POS tagging and F-score calculation  
-- `formality_comparison.png` – Visualization comparing F-scores  
-- `README.md` – Project description
-
----
-
 ## 📚 References  
 - Heylighen, F., & Dewaele, J.-M. (1999). *Formality of language: definition, measurement and behavioral determinants*.  
 - spaCy Documentation: https://spacy.io  
